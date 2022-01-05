@@ -1,0 +1,3 @@
+2
+CN02_0001,Pham,Van Minh Nu,0,PhamVanMinh
+CN02_0002,Luong,Ngoc Dai ,1,LuongNgocDai

@@ -1,0 +1,35 @@
+1
+Dia chi mang con cua host 172.16.25.14/30?
+172.16.25.4
+172.16.25.12
+172.16.25.8
+172.16.25.6
+B
+2
+Dia chi nao la dia chi mang con cua host 172.16.55.255/20?
+172.16.55.0
+172.16.55.128
+172.16.32.0
+172.16.48.0
+D
+3
+Dia chi nao sau day la dia chi quang ba cua mang 192.168.25.128/27
+192.168.25.255
+192.168.25.128
+192.168.25.159
+192.168.25.100
+C
+4
+Mot mang con lop A muon 5 bit de chia Subnet thi Subnet Mask se la?
+255.255.255.248
+255.248.255.255
+255.248.255.0
+255.248.0.0
+D
+5
+De ket noi may tinh va Switch voi nhau ta co the su dung?
+Cap cheo (Cross-Cable)
+Cap thang (Straight-Cable)
+RolloverCable
+Tat ca deu sai
+B

@@ -1,0 +1,21 @@
+1
+Chu ky dao dong tat dan phu thuoc nhu the nao vao chu ky dao dong rieng?
+Lon hon
+Nho hon
+Bang
+Khong phu thuoc
+D
+2
+Chon cau DUNG?
+Bien do la max cua li do
+Bien do la min cua li do
+Li do la max cua bien do
+Li do la min cua bien do
+A
+3
+Dien dung cua tu dien?
+C=QU
+C=Q/U
+C=U/Q
+C=I/Q
+B
